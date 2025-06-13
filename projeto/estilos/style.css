@@ -54,7 +54,7 @@ div#text {
 
 div#text > h1 {
     font-size: 34px;
-    padding-top: 2px;
+    padding-top: -10px;
     padding-bottom: 10px;
 }
 
