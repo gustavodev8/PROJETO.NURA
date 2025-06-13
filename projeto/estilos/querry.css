@@ -10,7 +10,7 @@
 
     section > div#imagem {
         float: left;
-        width: 100%;
+        width: 45%;
         height: 100%;
             background-image: url(../logo\ NURA\ TABLET.jpeg);
         border-top-right-radius: none ;
