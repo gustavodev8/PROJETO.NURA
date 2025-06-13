@@ -27,6 +27,8 @@
         padding-bottom: 70px;
     }
 
+
+
     /* 
 
 ICONES
@@ -56,5 +58,11 @@ ICONES
         padding-bottom: 15px;
     }
 }
-    
+    footer {
+    padding-top: 2px;
+    text-align: left;
+    padding-left: 17px;
+    text-decoration: solid;
+    font-size: 14px;
+}
 
