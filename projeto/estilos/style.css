@@ -58,6 +58,10 @@ div#text > h1 {
     padding-bottom: 10px;
 }
 
+div#saudacao {
+    margin: 10px;
+}
+
 div#text > p {
     font-size: 18px;
     line-height: 25px;
