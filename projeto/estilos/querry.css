@@ -9,12 +9,13 @@
     }
 
     section > div#imagem {
-        float: left;
-        width: 45%;
-        height: 100%;
-            background-image: url(../logo\ NURA\ TABLET.jpeg);
-        border-top-right-radius: none ;
-        border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-image: url(../logo\ NURA\ TABLET.jpegeg);
+    background-repeat: no-repeat;
+
+    background-position: center 200px;
+    height: 100px;
     }
 
     section#logins > div#text {
