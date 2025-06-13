@@ -104,6 +104,14 @@ form > p#usu {
 
 }
 
+form > p#senha {
+    
+    text-align: left;
+    display: block;
+    padding-top: 17px;
+
+}
+
 form > p > input#iusuario {
     width: 250px;
     padding: 8px;
