@@ -139,18 +139,8 @@ footer {
     text-align: center;
 }
 
-input[type="text"],
-input[type="password"] {
-    border: none;
-    width: 250px;
-    padding: 8px;
-    border: 1px solid #aaa;
-    border-radius: 0;
-    outline: none;
-    box-sizing: border-box;
-    font-size: 16px;
-    background-color: #fff;
-    color: #000;
+input {
+    border: 0px;
 }
 
 
