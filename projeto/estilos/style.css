@@ -112,6 +112,7 @@ form > p > input#iusuario {
 
 form > p > input#isenha {
     width: 250px;    
+    padding: 8px;
     text-align: left;
 }
 
