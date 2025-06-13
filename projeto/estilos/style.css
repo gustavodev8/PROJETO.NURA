@@ -75,7 +75,12 @@ form > p{
 
 }
 
-i#senhaa {
+
+/*
+
+ICONES:
+
+ i#senhaa {
     position: absolute;
     left: 12px;
     width: 20px;
@@ -90,7 +95,9 @@ i#usuarioo {
     padding-bottom: 5px;
     font-size: 30px;
     border-radius: 0
-}
+} 
+
+*/
 
 form > p > i {
     display: block;
@@ -104,13 +111,7 @@ form > p#usu {
 
 }
 
-form > p#senha {
-    
-    text-align: left;
-    display: block;
-    padding-top: 17px;
 
-}
 
 form > p > input#iusuario {
     width: 250px;
