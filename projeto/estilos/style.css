@@ -152,6 +152,13 @@ input[type="password"] {
     box-sizing: border-box;
 }
 
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-bottom: 2px solid #49a09d; /* verde */
+    transition: border-bottom 0.3s;
+}
+
+
 
 
 
