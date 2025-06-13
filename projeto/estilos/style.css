@@ -101,7 +101,14 @@ i#usuarioo {
 
 form > p#usu {
     
-    text-align: right;
+    text-align: left;
+    display: block;
+    padding-top: 17px;
+
+}
+form > p#sen {
+    
+    text-align: left;
     display: block;
     padding-top: 17px;
 
