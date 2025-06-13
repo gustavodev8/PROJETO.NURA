@@ -101,7 +101,7 @@ i#usuarioo {
 
 form > p#usu {
     
-    text-align: left;
+    text-align: right;
     display: block;
     padding-top: 17px;
 
@@ -128,7 +128,7 @@ form > p > input#ienviar {
 
 footer {
     padding-top: 54px;
-
+    text-align: center;
 }
 
 input[type="text"],
