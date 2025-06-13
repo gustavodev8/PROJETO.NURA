@@ -66,3 +66,9 @@ ICONES
     font-size: 14px;
 }
 
+div#text > p {
+    font-size: 18px;
+    line-height: 25px;
+    padding-bottom: 0px;
+}
+
