@@ -125,7 +125,7 @@ form > p#enviar {
 
 form > p > input#ienviar {
     color: white;
-    background-image: linear-gradient(210deg, #5f2c82, #49a09d);
+    background-image: linear-gradient(210deg, #000000, #1d1d1d);
     width: 200px;    
     padding: 8px;
     text-align: center;
