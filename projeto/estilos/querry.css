@@ -52,6 +52,7 @@ ICONES
 
     section > footer > p{
         text-align: left;
+        
 
     }
     form > p {
@@ -64,6 +65,7 @@ ICONES
     padding-left: 17px;
     text-decoration: solid;
     font-size: 14px;
+        padding-left: 17px;
 }
 
 div#text > p {
