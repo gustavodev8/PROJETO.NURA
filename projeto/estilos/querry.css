@@ -12,7 +12,8 @@
         float: left;
         width: 45%;
         height: 80%;
-            background-image: url(../logo\ NURA\ TABLET.jpeg);
+        background-image: url(../logo\ NURA\ TABLET.jpeg);
+        background-repeat: no-repeat;
         border-top-right-radius: none ;
         border-bottom-left-radius: 15px;
     }
