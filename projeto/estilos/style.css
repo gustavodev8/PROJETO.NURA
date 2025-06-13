@@ -111,8 +111,8 @@ form > p#sen {
     text-align: left;
     display: block;
     padding-top: 17px;
-        border: none;
-
+    border: none;
+border: 0px;
 }
 
 form > p#enviar {
