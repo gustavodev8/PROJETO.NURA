@@ -71,7 +71,7 @@ div#text > p {
 form > p{
     text-align: center;
     display: block;
-    padding-bottom: 10px;
+    padding-bottom: 14px;
 
 }
 
@@ -112,7 +112,7 @@ form > p#sen {
     display: block;
     padding-top: 17px;
     border: none;
-border: 0px;
+    border: 0px;
 }
 
 form > p#enviar {
