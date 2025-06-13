@@ -77,6 +77,7 @@ i#senhaa {
     width: 20px;
     padding-bottom: 5px;
     font-size: 30px;
+    border-radius: 0
 }
 i#usuarioo {
     position: absolute;
@@ -84,6 +85,7 @@ i#usuarioo {
     width: 20px;
     padding-bottom: 5px;
     font-size: 30px;
+    border-radius: 0
 }
 
 form > p > i {
