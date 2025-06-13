@@ -102,14 +102,12 @@ form > p > input#iusuario {
     width: 250px;
     padding: 8px;
     text-align: center;
-    border: 0.7px solid black;
 }
 
 form > p > input#isenha {
     width: 250px;    
     padding: 8px;
     text-align: center;
-    border: 0.7px solid black;
 }
 
 form > p#enviar {
