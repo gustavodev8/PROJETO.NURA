@@ -98,7 +98,7 @@ form > p > i {
 }
 form > p#usu {
     
-    text-align: center;
+    text-align: left;
     display: block;
     padding-top: 17px;
 
@@ -107,13 +107,13 @@ form > p#usu {
 form > p > input#iusuario {
     width: 250px;
     padding: 8px;
-    text-align: center;
+    text-align: left;
 }
 
 form > p > input#isenha {
     width: 250px;    
     padding: 8px;
-    text-align: center;
+    text-align: left;
 }
 
 form > p#enviar {
