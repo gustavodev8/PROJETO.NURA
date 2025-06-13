@@ -29,7 +29,7 @@ section#logins {
     border-radius: 15px;
     background-color: white;
     width: 350px;
-    height: 450px;
+    height: 420px;
 
     position: absolute;
     top: 50%;
@@ -100,11 +100,10 @@ i#usuarioo {
 */
 
 form > p#usu {
-    
     text-align: left;
     display: block;
     padding-top: 17px;
-        border: none;
+    border: none;
 
 }
 form > p#sen {
