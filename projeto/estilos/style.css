@@ -138,6 +138,7 @@ footer {
     padding-top: 20px;
     text-align: left;
     padding-left: 17px;
+    text-decoration: solid;
 }
 
 input[type="text"],
