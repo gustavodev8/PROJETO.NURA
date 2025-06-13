@@ -111,20 +111,6 @@ form > p#usu {
 
 }
 
-
-
-form > p > input#iusuario {
-    width: 250px;
-    padding: 8px;
-    text-align: left;
-}
-
-form > p > input#isenha {
-    width: 250px;    
-    padding: 8px;
-    text-align: left;
-}
-
 form > p#enviar {
     text-align: center;
     display: block;
@@ -148,7 +134,20 @@ footer {
     padding-top: 54px;
     text-align: center;
 }
- 
+
+input[type="text"],
+input[type="password"] {
+    width: 250px;
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 16px;
+    background-color: #fff;
+    color: #000;
+}
+
 
 
 
